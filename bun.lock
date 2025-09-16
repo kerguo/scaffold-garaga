@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "devDependencies": {
+        "typescript": "^6.0.0-dev.20250916",
+      },
+    },
+  },
+  "packages": {
+    "typescript": ["typescript@6.0.0-dev.20250916", "https://registry.npmmirror.com/typescript/-/typescript-6.0.0-dev.20250916.tgz", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-Xfuwn53pwofpt/hGVqLcqkqEN9u7jWpPAagOj2QgGmgOZH4P8pzPpwBB4piRkOqYdmiSg6qOP4xK3L9iNRTF6A=="],
+  }
+}
